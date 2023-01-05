@@ -15,7 +15,7 @@
 <hr>
 <pre>
 💻 I am Java backend and Database developer.
-📚 I have a Bachelors in Cyber security from the Tashkent University of Information Technologies.
+📚 Shu yerga o'qiman deb yoz
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Java, C/C++
