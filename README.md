@@ -15,7 +15,7 @@
 <hr>
 <pre>
 💻 I am Java backend and Database developer.
-📚 Shu yerga o'qiman deb yoz
+📚 I'm currently studying at Tashkent University of Information Technologies
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Java, C/C++
