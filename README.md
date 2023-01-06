@@ -56,8 +56,7 @@
 </p>
 
 ### LeetCode Stats Card
-[![LeetCode Stats](https://leetcard.KhoEL/Jason?theme=unicorn&extension=activity)](https://leetcard.KhoEl/Jason?theme=unicorn&extension=activity)
-
+![LeetCode Stats](https://leetcode.card.workers.dev/KhoEL?theme=unicorn&font=baloo&extension=activity)
 ### 👉 Frameworks
 <p>
 	<img src="http://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
