@@ -55,9 +55,9 @@
   &emsp;
 </p>
 
-# LeetCode Stats Card
+### LeetCode Stats Card
 
-[![CodeFactor](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card)
+[![CodeFactor](https://www.codefactor.io/repository/github/ElbekKholmatov/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card)
 
 
 Show your dynamically generated LeetCode stats on your GitHub profile or your website!
