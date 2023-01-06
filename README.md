@@ -56,17 +56,7 @@
 </p>
 
 ### LeetCode Stats Card
-
-[![CodeFactor](https://www.codefactor.io/repository/github/ElbekKholmatov/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card)
-
-
-Show your dynamically generated LeetCode stats on your GitHub profile or your website!
-
-LeetCode and LeetCode CN are both supported.
-
-[Playground: Try It Now](https://leetcode.com/KhoEL/)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.KhoEl/Jason?theme=unicorn&extension=activity)
 
 ### 👉 Frameworks
 <p>
