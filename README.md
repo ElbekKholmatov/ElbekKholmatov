@@ -56,7 +56,7 @@
 </p>
 
 ### LeetCode Stats Card
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.KhoEl/Jason?theme=unicorn&extension=activity)
+[![LeetCode Stats](https://leetcard.KhoEL/Jason?theme=unicorn&extension=activity)](https://leetcard.KhoEl/Jason?theme=unicorn&extension=activity)
 
 ### 👉 Frameworks
 <p>
