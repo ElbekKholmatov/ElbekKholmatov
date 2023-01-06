@@ -5,7 +5,7 @@
 
 <h1 align="center">
 	<a href="https://github.com/ElbekKholmatov" target="_self">
-		<img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+<!-- 		<img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif"> -->
 		<img alt="GIF" src="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">
 	</a>
 </h1>
