@@ -5,11 +5,9 @@
 
 <h1 align="center">
 	<a href="https://github.com/ElbekKholmatov" target="_self">
-		<img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+<!-- 		<img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif"> -->
+		<iframe src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">via GIPHY</a></p>
 	</a>
-<!-- 	<a href="https://github.com/ElbekKholmatov" target="_self">
-		<img alt="GIF" src="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">
-	</a> -->
 </h1>
 <br>
 
