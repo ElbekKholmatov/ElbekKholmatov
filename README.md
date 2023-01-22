@@ -8,7 +8,9 @@
 <!-- 	<a href="https://github.com/ElbekKholmatov" target="_self">
 		<img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 	</a> -->
+	<a href="https://github.com/ElbekKholmatov" target="_self">
 	<iframe src="https://assets.pinterest.com/ext/embed.html?id=449304500298392085" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
+	</a>
 </h1>
 <br>
 
