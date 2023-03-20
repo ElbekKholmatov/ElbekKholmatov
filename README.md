@@ -3,7 +3,12 @@
 	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Elbek Kholmatov!;Welcome+to+my+GitHub+Profile!">
 </h1>
 <!-- <h3 align="center">Java Backend @ <a href='https://capitecbank.co.za'>Capitec Bank</a> | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3> -->
+<h1 align="center">
+	<a href="https://github.com/ElbekKholmatov/Resume-">
+		My Resume
+	</a>
 
+</h1>
 <h1 align="center">
 	<a href="https://github.com/ElbekKholmatov" target="_self">
 		<img alt="GIF" src="https://github.com/ElbekKholmatov/ElbekKholmatov/blob/main/Coder%20%5Bgif%5D.gif">
