@@ -4,7 +4,6 @@
 </h1>
 <!-- <h3 align="center">Java Backend @ <a href='https://capitecbank.co.za'>Capitec Bank</a> | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3> -->
 <h1 align="center">
-
 	<a href="https://github.com/ElbekKholmatov/Resume-/blob/main/Elbek%20Kholmatov%202.0%20Bcnd%20(1).pdf">
 		My Resume
 			</a>
