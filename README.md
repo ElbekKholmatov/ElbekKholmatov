@@ -6,7 +6,6 @@
 <h1 align="center">
 
 	<a href="https://github.com/ElbekKholmatov/Resume-/blob/main/Elbek%20Kholmatov%202.0%20Bcnd%20(1).pdf">
-		<script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
 		My Resume
 			</a>
 </h1>
