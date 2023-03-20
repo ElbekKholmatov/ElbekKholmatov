@@ -4,24 +4,11 @@
 </h1>
 <!-- <h3 align="center">Java Backend @ <a href='https://capitecbank.co.za'>Capitec Bank</a> | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3> -->
 <h1 align="center">
-	
-<lord-icon
-    src="https://cdn.lordicon.com/ckatldkn.json"
-    trigger="hover"
-    style="width:50px;height:50px">
-</lord-icon>
+
 	<a href="https://github.com/ElbekKholmatov/Resume-/blob/main/Elbek%20Kholmatov%202.0%20Bcnd%20(1).pdf">
 		<script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
 		My Resume
 			</a>
-		<script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/ckatldkn.json"
-    trigger="hover"
-    style="width:50px;height:50px">
-</lord-icon>
-
-
 </h1>
 <h1 align="center">
 	<a href="https://github.com/ElbekKholmatov" target="_self">
